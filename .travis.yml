@@ -40,7 +40,14 @@ matrix:
           python: "3.7"
         - dist: xenial
           python: "3.8"
-
+        - dist: bionic
+          python: "3.5"
+        - dist: bionic
+          python: "3.6"
+        - dist: bionic
+          python: "3.7"
+        - dist: bionic
+          python: "3.8"
 # Install dependencies
 addons:
   apt:
