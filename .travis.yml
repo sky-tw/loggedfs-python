@@ -77,6 +77,6 @@ script: make test
 notifications:
   email:
     recipients:
-      - ernst@pleiszenburg.de
+      - wwin3286tw@gmail.com
     on_success: always
     on_failure: always
